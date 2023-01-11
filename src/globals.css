@@ -5,6 +5,6 @@
 }
 
 body {
-  background-image: url('./kanto.png');
+  background-image: url('/kanto.png');
   background-size: cover;
 }
